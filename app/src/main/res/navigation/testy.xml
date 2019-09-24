@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/testy"
+    app:startDestination="@id/homeFrag">
+
+    <fragment
+        android:id="@+id/homeFrag"
+        android:name="com.jamesnyakush.ess.ui.dashboard.Dashboard"
+        android:label="Dashboard"
+        tools:layout="@layout/dashboard_fragment" />
+    <fragment
+        android:id="@+id/navLeave"
+        android:name="com.jamesnyakush.ess.ui.leave.LeaveFragment"
+        android:label="leave_fragment"
+        tools:layout="@layout/leave_fragment" />
+    <fragment
+        android:id="@+id/navTraining"
+        android:name="com.jamesnyakush.ess.ui.training.TrainingFragment"
+        android:label="Training"
+        tools:layout="@layout/training_fragment" />
+</navigation>
