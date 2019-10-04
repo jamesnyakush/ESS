@@ -1,2 +1,2 @@
-include ':app'
+include ':staff', ':manager'
 rootProject.name='ESS'

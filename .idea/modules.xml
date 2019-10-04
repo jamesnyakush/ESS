@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-ESS.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-ESS.iml" />
       <module fileurl="file://$PROJECT_DIR$/ESS.iml" filepath="$PROJECT_DIR$/ESS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staff/app.iml" filepath="$PROJECT_DIR$/staff/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staff/staff.iml" filepath="$PROJECT_DIR$/staff/staff.iml" />
     </modules>
   </component>
 </project>
