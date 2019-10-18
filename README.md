@@ -14,7 +14,7 @@
 
   3. Claim Management.
 
-  User can use this module to fill in the expense claims like ‘conveyance reimbursements’ and can attach the scanned copy of  bills and submit the same.
+          User can use this module to fill in the expense claims like ‘conveyance reimbursements’ and can attach the scanned copy of  bills and submit the same.
 
   4. Generic Services
       * View Benefits — View various benefits available to the user.
