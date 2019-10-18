@@ -4,4 +4,4 @@
 
 #### The Following are the core features that the ess app will be having.
 
-...*
+.
