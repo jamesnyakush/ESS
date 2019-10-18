@@ -25,9 +25,7 @@
       * Request for More information.
       * View Direct reportee charts.
     
-  6. Time and Labour management.
-  
-  Employees can fill the timesheet from the app.
+  6. Time and Labour management: Employees can fill the timesheet from the app.
   
   7. Learning and Training.
   
