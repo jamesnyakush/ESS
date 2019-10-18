@@ -17,15 +17,15 @@
   User can use this module to fill in the expense claims like ‘conveyance reimbursements’ and can attach the scanned copy of  bills and submit the same.
 
   4. Generic Services
-    * View Benefits — View various benefits available to the user.
-    * View Policy documents.
-    * Pay Slip download.
+      * View Benefits — View various benefits available to the user.
+      * View Policy documents.
+      * Pay Slip download.
 
   5. Manager Services.
-    * Approve leave.
-    * Reject Leave.
-    * Request for More information.
-    * View Direct reportee charts.
+      * Approve leave.
+      * Reject Leave.
+      * Request for More information.
+      * View Direct reportee charts.
     
   6. Time and Labour management.
   
