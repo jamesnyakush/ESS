@@ -4,7 +4,7 @@
 
 #### The Following are the core features that the ess app will be having.
 
-  1. Profile Management.
+  1. *Profile Management*.
 
   2. Absence Services.
 
